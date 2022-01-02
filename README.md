@@ -1,2 +1,2 @@
 # estudo-de-objetos
-## estudando objetos em javascript com alguns projetinhos
+estudando objetos em javascript com alguns projetinhos
